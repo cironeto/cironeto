@@ -1,6 +1,6 @@
 🙋‍♂️ **About me**\
 Hi, my name is Ciro and I'm 30.
-I'm from Campinas/SP - Brazil.
+I'm from Campinas/SP - Brazil.\
 On the way to change my career path to become a Software Developer.
 
 🤓 **My journey**\
