@@ -1,7 +1,7 @@
 🙋‍♂️ **About me**\
 Hi, my name is Ciro and I'm 30.
 I'm from Campinas/SP - Brazil.\
-On the way to change my career path to become a Software Developer.
+Graduated in Business Administration and now I'm on the way to changing my career path to become a Software Developer.
 
 🤓 **My journey**\
 Beginner's mindset and curiosity, very excited about everything related to programming.
