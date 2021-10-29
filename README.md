@@ -12,7 +12,7 @@ more about this environment and related frameworks.
 📚 **Langues and Frameworks**\
 Java / Spring / SQL
 
-JSF / HTML / CSS / JavaScript
+HTML / CSS / JavaScript
 
 🔧 **Tools**\
 Git / Linux / Docker / MySQL / Intellij IDEA
