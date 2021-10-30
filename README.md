@@ -10,7 +10,7 @@ Started from Java and Object-Oriented Programming and intend to learn
 more about this environment and related frameworks.
  
 📚 **Langues and Frameworks**\
-Java / Spring / SQL
+Java / Spring / JSF / SQL
 
 HTML / CSS / JavaScript
 
