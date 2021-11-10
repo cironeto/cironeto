@@ -15,7 +15,7 @@
 <img align="center" alt="Java" height="40 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-<br>
+<br><br>
 
 <div> 
 <a href="https://api.whatsapp.com/send?phone=5519992582741" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
