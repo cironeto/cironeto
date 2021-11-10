@@ -1,12 +1,3 @@
-<a>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cironeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-<a>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cironeto&layout=compact&langs_count=7&theme=dracula"/>  
-</a>
-
-
-
 <div style="display: inline_block" align="center">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cironeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cironeto&layout=compact&langs_count=7&theme=dracula"/>
